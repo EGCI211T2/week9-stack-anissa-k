@@ -8,7 +8,7 @@
 #ifndef node_h
 #define node_h
 class NODE{
-     int data;
+    int data;
     NODE *nextPtr;
 public:
     NODE(int);
